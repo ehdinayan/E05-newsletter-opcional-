@@ -28,7 +28,7 @@ This is how html newsletter doc starts:
 Así que como estábamos en el primer mes de curso todavía prácticamente, aún poníamos el CSS en el mismo documento, pero bueno voy a compartir  parcialmente el inicio de la tabla con y sin estilos para ver si puedo replicar el resultado, que puede ser interesante:
 
 
-
+```
 <style type="text/css">
 
 caption{
@@ -48,7 +48,7 @@ th.B{
   color:red;
 }
 </style>
-
+```
 
 <table cellspacing="0" cellpadding="0" border="1">
 
@@ -88,14 +88,6 @@ th.B{
 
 
 ```
-<style type="text/css">
-
-caption{
-  font-size: 20px;
-  text-align: center;
-  margin:5px;
-}
-</style>
 
 <--!Aquí empezamos con la tabla directamente, faltan unas celdas superiores-->
 
@@ -136,4 +128,4 @@ caption{
 ```
 
 A falta de unos pocos estilos CSS más para el interior de las celdas de la dcha y tal, ésto que tenemos aquí es lo siguiente (importante el rowspan de 10 en la 1º celda de la 1º fila para meter la foto y seguir construyendo todo a partir de ahí):
-## Nota: El plugin para previsualizar MarkDown de Atom me aplicaba los estilos de la Newsletter, pero bueno que vamos a hacer... 
+## Nota: El plugin para previsualizar MarkDown de Atom me aplicaba los estilos de la Newsletter, pero bueno que vamos a hacer...
