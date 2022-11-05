@@ -136,3 +136,4 @@ caption{
 ```
 
 A falta de unos pocos estilos CSS más para el interior de las celdas de la dcha y tal, ésto que tenemos aquí es lo siguiente (importante el rowspan de 10 en la 1º celda de la 1º fila para meter la foto y seguir construyendo todo a partir de ahí):
+## Nota: El plugin para previsualizar MarkDown de Atom me aplicaba los estilos de la Newsletter, pero bueno que vamos a hacer... 
