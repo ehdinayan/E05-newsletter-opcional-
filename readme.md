@@ -1,6 +1,5 @@
 # E05 Newsletters (optional exercise)
 
-Another [link] to git page
 
 This is little deprecated work method I think, but we were instructed about it so I'll write down a little about it.
 
